@@ -3,4 +3,4 @@
 The home page UI -
 
 
-![homepage](/Ui.png)
+![homepage](/UI.png)
